@@ -1,0 +1,4 @@
+$ PYLINTHOME=/tmp/final_project_pylint python3 -m pylint server.py
+
+------------------------------------
+Your code has been rated at 10.00/10
