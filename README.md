@@ -1,4 +1,4 @@
-# Emotion Detector
+# FINAL PROJECT
 
 Emotion Detector is a Flask web application that sends English text to the IBM
 Skills Network Watson emotion service and displays the detected emotions. It
